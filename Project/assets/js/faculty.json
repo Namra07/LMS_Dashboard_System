@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Adnan ahmed khan",
+    "research": "Signal Processing Techniques in Advanced Wireless Systems",
+    "publications": [
+      " A wideband decoupling method using bezel-coupled loop-type isolator for smartwatch MIMO applications",
+      "Secure resource management in beyond 5G heterogeneous networks with decoupled access"
+    ],
+    "awards_and_honours": "Gold Medalist"
+  },
+
+  {
+    "name": "Dr. Naima Altaf",
+    "research": "Recommender system/distributed system and Data Mining",
+    "publications": [
+      "Contextual recommender system for E-commerce applications",
+      "Enhanced Metamorphic Techniques-A Case Study Against Havex Malware"
+    ],
+    "awards_and_honours": "Silver Medal"
+  },
+  {
+    "name": "Ayesha Naseer",
+    "research": "Finite state machines/Application of automata in software engineering, natural language processing, and cryptography",
+    "publications": [
+      "Theoretical Computer Science",
+      "Information and Computation "
+    ],
+    "awards_and_honours": "consultation prize"
+  },
+  {
+    "name": "Alia razia malik",
+    "research": "Linguistics and Literature",
+    "publications": [
+      "Hybrid double-diffusivity convection and induced magnetic field effects on peristaltic waves of Oldroyd 4-constant nanofluids in non-uniform channel",
+      "Theoretical investigation of double diffusion convection of six constant Jeffreys nanofluid on waves of peristaltic with induced magnetic field: a bio-nano-engineering model"
+    ],
+    "awards_and_honours": "nickel medal"
+  },
+  {
+    "name": "Dr. Yawar Bangash Abbasi",
+    "research": "SOFTWARE DEFINED NETWORKING",
+    "publications": [
+      "Application Threats to Exploit Northbound Interface Vulnerabilities in Software Defined Networks",
+      " ALAM: Anonymous Lightweight Authentication Mechanism for SDN Enabled Smart Homes"
+    ],
+    "awards_and_honours": "bronze medal"
+  },
+  {
+    "name": "Waleed bin shahid",
+    "research": "Cryptographic hardware and secure devices",
+    "publications": [
+      "Introduction to Modern Cryptography",
+      "Journal of Computer Security"
+    ],
+    "awards_and_honours": "iron medal"
+  },
+  {
+    "name": "Kabeer Ahmed",
+    "research": "WIRELESS MULTIMEDIA SENSOR NETWORKS",
+    "publications": [
+      "Comparative study of centralized cooperative spectrum sensing in cognitive radio networks",
+      "Compact and User-Friendly Representation of IPv6 Addressing Approach and Masking"
+    ],
+    "awards_and_honours": "brass medal"
+  },
+  {
+    "name": "Engr. Laraib Zainab",
+    "research": "Data Structures and Algorithms",
+    "publications": ["", ""],
+    "awards_and_honours": "Tin medal"
+  },
+  {
+    "name": "Mobeena shahzad",
+    "research": "MS Software Engineering",
+    "publications": ["", ""],
+    "awards_and_honours": "Platinum medal"
+  }
+]

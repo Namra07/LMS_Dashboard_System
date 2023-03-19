@@ -1,0 +1,58 @@
+[
+  
+    { 
+        "name":"Momina",
+        "semester":"5",
+        "year":"3rd",
+        "cr":"18",
+        "cgpa":"3.5",
+        "academic_standings":"outstanding",
+        "progress":"good",
+        "courses": [{"name":"Operating Systems","instructor":"mobeena shehzad","cr":"4","progress":"75%"},{"name":"Professional Ethics","instructor":"Danial","cr":"3","progress":"80%"},{"name":"Software Design & Arhitecture","instructor":"Dr.Yawar Abbas","cr":"4","progress":"90%"},{"name":"Web Engineering","instructor":"Naima Altaf","cr":"4","progress":"70%"},{"name":"Technical Writing","instructor":"Dr. Alia Razia","cr":"3","progress":"80%"}],
+        "id":"musman",
+        "pswd":"1122",
+        "attendance":[75,80,90,70,80]
+    },
+    { 
+        "name":"Saman",
+        "semester":"5",
+        "year":"3rd",
+        "cr":"18",
+        "cgpa":"3.78",
+        "academic_standings":"Excellent",
+        "progress":"good",
+        "courses": [{"name":"Operating Systems","instructor":"mobeena shehzad","cr":"4","progress":"90%"},{"name":"Professional Ethics","instructor":"Danial","cr":"3","progress":"85%"},{"name":"Software Design & Arhitecture","instructor":"Dr.Yawar Abbas","cr":"4","progress":"93%"},{"name":"Web Engineering","instructor":"Naima Altaf","cr":"4","progress":"89%"},{"name":"Technical Writing","instructor":"Dr. Alia Razia","cr":"3","progress":"80%"}],
+        "id":"szohra",
+        "pswd":"2233",
+        "attendance":[90,85,93,99,85,76]
+    },
+    { 
+        "name":"Namra",
+        "semester":"7",
+        "year":"4th",
+        "cr":"20",
+        "cgpa":"3.82",
+        "academic_standings":"Outstanding",
+        "progress":"good",
+        "courses": [{"name":"Data Mining","instructor":"Dr. Naima Altaf","cr":"3","progress":"90%"},{"name":"Data Science","instructor":"Col. Kafayat Ullah","cr":"3","progress":"80%"},{"name":"Crypto","instructor":"Muqeem shehri","cr":"3","progress":"70%"},{"name":"Accounting","instructor":"Sana Abbasi","cr":"3","progress":"70%"},{"name":"HRM","instructor":"Maria Zia","cr":"3","progress":"80%"}],
+        "id":"nhaleema",
+        "pswd":"2244",
+        "attendance":[80,50,83,94,75,100]
+    },
+    { 
+        "name":"Usman",
+        "semester":"4",
+        "year":"2nd",
+        "cr":"20",
+        "cgpa":"3.92",
+        "academic_standings":"Outstanding",
+        "progress":"good",
+        "courses": [{"name":"Automata","instructor":"Ayesha Naseer","cr":"3","progress":"60%"},{"name":"COA","instructor":"Kabeer Ahmed","cr":"3","progress":"90%"},{"name":"SRE","instructor":"Maj. Wajahat Sultan","cr":"3","progress":"80%"},{"name":"Computer Networks","instructor":"Yawar Abbas","cr":"4","progress":"75%"},{"name":"Information Security","instructor":"Maj. Bilal","cr":"3","progress":"50%"}],
+        "id":"uhassan",
+        "pswd":"2255",
+        "attendance":[85,80,93,100,86,75]
+    }
+   
+]
+ 
+

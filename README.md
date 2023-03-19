@@ -1,2 +1,3 @@
-# LMS_Dashboard_System
-I've deployed this project in Web Development using HTML || CSS || JavaScript || JSON || AJAX for back-end calls.
+Dashboard for Learning Management System using HTML, CSS, JS. 
+JSON is used as database here
+Routing using Express and Node js.
